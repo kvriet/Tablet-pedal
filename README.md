@@ -1,2 +1,2 @@
-# Tablet_pedal
-A pedal for a tablet for hands-free page turning
+# Tablet Pedal
+A pedal for a tablet for hands-free page turning.
