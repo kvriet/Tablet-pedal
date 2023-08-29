@@ -1,2 +1,2 @@
 # Tablet Pedal
-A pedal for a tablet for hands-free page turning.
+A pedal to use with a tablet for hands-free page turning.
