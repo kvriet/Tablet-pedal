@@ -1,7 +1,4 @@
 # Tablet Pedal
-<<<<<<< Updated upstream
-A pedal to use with a tablet for hands-free page turning.
-=======
 A pedal for a tablet for hands-free page turning.
 
 ## Instructions
@@ -23,5 +20,3 @@ This feature can be disabled in the code by setting lowBatteryMessage to 'false'
 The pedal runs on a 3100mAh, 18650 Li-ion battery. The battery can be charged via the micro-USB port using a common USB phone charger. When charging, a red LED light will turn on. Once charging is done, a green light will turn on.
 
 Safety: The pedal contains a protection circuit for the battery to prevent charging and discharging too much. However, always take care with Li-ion batteries. It's best to charge them where you can keep an eye on them. For good battery health, don't leave the battery discharged for many months. Don't use the pedal in environments below 0 degrees Celsius.
-
->>>>>>> Stashed changes
