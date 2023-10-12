@@ -1,7 +1,9 @@
 /*
- Katrien van Riet - September 2023 - v5.4
+ Katrien van Riet - September 2023 - v5.5
  Keyboard code from: https://github.com/T-vK/ESP32-BLE-Keyboard
  Code for ESP32 WROVER version (board T18_3.0). Choose board: ESP32 Wrover Kit (all versions)
+ If your board manager doesn't show the WROVER board, put this URL under "Additional boards manager URLs" in Preferences:
+ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
  */
 
 #include <BleKeyboard.h>
@@ -9,8 +11,9 @@
 #include "esp_adc_cal.h"
 
 //// VARIABLES YOU CAN CHANGE ////
-BleKeyboard bleKeyboard("Pedaal Maud", "CM van Riet", 100);
+BleKeyboard bleKeyboard("Pedal Page Turner", "CM van Riet", 100);
 // ("Bluetooth Device Name", "Bluetooth Device Manufacturer", initial battery level of your device)
+// You can change the bluetooth device name to suit your own needs
 
 bool printToSerial = false;                   // Set to 'true' to print debugging statements to serial port
 bool lowBatteryMessage = true;                // Set to 'false' to disable LED flashing when battery is low
