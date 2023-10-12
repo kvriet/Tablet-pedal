@@ -1,6 +1,8 @@
 # Tablet Pedal
 A pedal for a tablet for hands-free page turning.
 
+![alt text](https://https://github.com/kvriet/Tablet-pedal/blob/main/Pictures/pedal%20turning%20pages.gif?raw=true)
+
 ## Instructions
 ### Pairing
 The pedal has a power switch that turns the pedal on and automatically puts it in bluetooth pairing mode. When the pedal is turning on, the blue LED will flash rapidly three times. For first-time pairing, open the bluetooth menu on your sheet music device, select your pedal (Pedal Name) and agree to pair. That's all that is needed. On most devices pairing will be automatic after that.
