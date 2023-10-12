@@ -1,7 +1,7 @@
 # Tablet Pedal
 A pedal for a tablet for hands-free page turning.
 
-![alt text](https://https://github.com/kvriet/Tablet-pedal/blob/main/Pictures/pedal%20turning%20pages.gif?raw=true)
+![alt text](https://github.com/kvriet/Tablet-pedal/blob/main/Pictures/pedal-turning-pages.gif?raw=true)
 
 ## Instructions
 ### Pairing
