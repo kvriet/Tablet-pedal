@@ -5,7 +5,7 @@ A foot pedal for a tablet for hands-free page turning.
 
 ## Instructions
 ### Pairing
-The pedal has a power switch that turns the pedal on and automatically puts it in bluetooth pairing mode. When the pedal is turning on, the blue LED will flash rapidly three times. For first-time pairing, open the bluetooth menu on your sheet music device, select your pedal (Pedal Name) and agree to pair. That's all that is needed. On most devices pairing will be automatic after that.
+The pedal has a power switch that turns on the pedal and automatically puts it in bluetooth pairing mode. When the pedal is turning on, the blue LED will flash rapidly three times. For first-time pairing, open the bluetooth menu on your sheet music device, select your pedal (Pedal Name) and agree to pair. That's all that is needed. On most devices pairing will be automatic after that.
 
 ### Power and sleep mode
 To conserve energy, turn the pedal off with the black power switch when you're not using the pedal for a longer time. If you forget to switch it off, the pedal will go into deep sleep after 15 minutes. To wake the pedal up again, turn it off and on with the power switch.
@@ -15,7 +15,7 @@ How many minutes it takes before the pedal goes to sleep can be changed in the c
 On a single full charge, the battery should last roughly 12 hours of use.
 
 ### Low battery warning
-When the battery on the pedal is running low, the pedal will flash the blue LED rapidly four times. It does this every minute.
+When the battery is running low, the pedal will flash the blue LED rapidly four times. It does this every minute.
 This feature can be disabled in the code by setting lowBatteryMessage to 'false'.
 
 ### Charging
